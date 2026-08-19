@@ -1,51 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/citation.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/citation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/citation.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/citation.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://jsteyn.github.io/example_lesson_for_cldt/reference.html</loc>
   </url>
 </urlset>
